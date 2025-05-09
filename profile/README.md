@@ -40,7 +40,7 @@
 * **DMK 시그니처 특강**: DX 인식 전환부터 AI 도입을 위한 구체적 방법까지, DMK 컨설팅 사례를 기반으로 한 교육 과정입니다.
 * **기업 맞춤형 DX 교육**: 기업별 교육 대상자에 맞춰 변화된 환경과 기술을 활용하여 업무에 바로 적용할 수 있도록 지원합니다.
 
-### 📬 연락처
+## 📬 연락처
 
 * **홈페이지**: [www.datamarketing.co.kr](https://www.datamarketing.co.kr)
 * **이메일**: [dmk@datamarketing.co.kr](mailto:dmk@datamarketing.co.kr)
